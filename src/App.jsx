@@ -18,8 +18,8 @@ function App() {
       </div>
       <h1>Hello World, Dev1!!!</h1>
       <h1>Hello World, Dev2!!!</h1>
-      
-       <h2>Welcome, Dev1!!!</h2>
+
+      <h2>Welcome, Dev1!!!</h2>
       <h2>Welcome, Dev2!!!</h2>
 
       <div className="card">
@@ -28,6 +28,15 @@ function App() {
         </button>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
+        </p>
+        <p>
+          Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deserunt
+          quas unde aperiam quaerat reiciendis maxime ullam nihil animi sunt
+          corrupti excepturi, esse accusantium quae quibusdam sed minima. Fugit,
+          eveniet mollitia. At animi vitae, labore nostrum, a impedit laboriosam
+          porro voluptates ut vel quidem consequatur qui reprehenderit sapiente
+          doloribus et odit velit sed id? Animi laudantium et excepturi culpa
+          quibusdam dolor?
         </p>
       </div>
       <p className="read-the-docs">
